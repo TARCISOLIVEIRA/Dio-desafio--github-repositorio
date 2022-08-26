@@ -8,4 +8,4 @@
 ##Como fazer downloads do git e instalar e usar
 ### É um tutorial para iniciante
 
-[Download do Git](https://www.markdownguide.org/basic-syntax/)
+[Download do Git](https://diolinux.com.br/anuncie-aqui    )
